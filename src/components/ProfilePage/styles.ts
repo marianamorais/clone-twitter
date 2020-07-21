@@ -2,7 +2,6 @@ import styled, { css } from 'styled-components';
 
 import { LocationOn, Cake } from '../../styles/Icons';
 import Button from '../Button';
-import { constants } from 'perf_hooks';
 
 export const Container = styled.div`
   display: flex;

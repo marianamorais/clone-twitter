@@ -61,6 +61,8 @@ const MenuBar: React.FC = () => {
           <strong>Mariana Morais</strong>
           <span>@mari_morais</span>
         </ProfileData>
+
+        <ExitIcon />
       </Botside>
     </Container>
   );
